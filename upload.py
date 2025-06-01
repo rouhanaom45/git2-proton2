@@ -58,7 +58,7 @@ def upload_to_mega(zip_name):
         subprocess.run(['mega-logout'], capture_output=True, text=True)
         
         # Log in to MEGA account
-        subprocess.run(['mega-login', 'fouhom223@gmail.com', '52981070mM'], check=True, capture_output=True, text=True)
+        subprocess.run(['mega-login', 'volcnao62@gmail.com', '21504174lL@'], check=True, capture_output=True, text=True)
         
         # Create /part2 folder if it doesn't exist
         subprocess.run(['mega-mkdir', '/github-firefox'], capture_output=True, text=True)
